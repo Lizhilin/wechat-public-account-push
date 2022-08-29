@@ -19,9 +19,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "桂林",
+    PROVINCE: "桂林市",
     // 所在城市
-    CITY: "桂林",
+    CITY: "桂林市",
 
     /** 生日相关 */
 
